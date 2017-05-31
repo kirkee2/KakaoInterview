@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/university"
+        android:title="대학교" />
+    <item android:title="활동">
+        <menu>
+            <item
+                android:id="@+id/ENOW"
+                android:title="ENOW" />
+            <item
+                android:id="@+id/Tacademy"
+                android:title="티아카데미" />
+            <item
+                android:id="@+id/androidClass"
+                android:title="안드로이드 수업" />
+        </menu>
+    </item>
+</menu>

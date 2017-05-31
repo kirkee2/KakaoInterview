@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KakaoInterview</string>
+    <string name="splash_text">Kakao Interview</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="my_name">이건준</string>
+    <string name="main_press_button">Press</string>
+    <string name="url">http://www.gettyimagesgallery.com/collections/archive/slim-aarons.aspx</string>
+    <string name="imageUrl">http://www.gettyimagesgallery.com</string>
+</resources>
